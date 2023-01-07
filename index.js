@@ -1,6 +1,6 @@
 
 // Rock, Paper, Scissors //
-alert('Are you ready? Beat the computer in a 10 round ultimate battle of Rock, paper, Scissors!!')
+alert('Are you ready? Beat the computer in a 10 round ultimate battle of Rock, Paper, Scissors!!')
 // 5 Rounds * Player vs Computer
 
 // Define 3 Choices * Rock.Paper.Scissors
